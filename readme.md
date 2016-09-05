@@ -449,6 +449,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Userscripts](https://github.com/brunocvcunha/awesome-userscripts) - Enhance your browsing experience.
 - [Pokémon](https://github.com/tobiasbueschel/awesome-pokemon) - Pokémon and Pokémon GO resources and tools.
 - [ChatOps](https://github.com/exAspArk/awesome-chatops) - Managing technical and business operations through a chat.
+- [Alternative Internet](https://github.com/redecentralize/alternative-internet) - A collection of interesting new networks and tech aiming at decentralisation (in some form).
 
 
 ## License
